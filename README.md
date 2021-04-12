@@ -1,5 +1,5 @@
 # javascript-challenge
-This is homework 14 for Data Analytics and Visualization Boot Camp at the University of Minnesota.
+This is homework 14 based on material covered March 31, April 3, and April 5, 2021 in Data Analytics and Visualization Boot Camp at the University of Minnesota.
 
 Goal
 "...create a table dynamically based upon a dataset we provide. We also need to allow our users to filter the table data for specific values... only use pure JavaScript, HTML, and CSS, and D3.js on our web pages."
@@ -21,6 +21,28 @@ var data = [{
   {}...
 ]
 
+
+The HTML contains
+
+<div class="col-md-10">
+          <div id="table-area" class="">
+            <table id="ufo-table" class="table table-striped">
+              <thead>
+                <tr>
+                  <th class="table-head">Date</th>
+                  <th class="table-head">City</th>
+                  <th class="table-head">State</th>
+                  <th class="table-head">Country</th>
+                  <th class="table-head">Shape</th>
+                  <th class="table-head">Duration</th>
+                  <th class="table-head">Comments</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+
 Instructions
 x "Create a new repository for this project called javascript-challenge. Do not add this homework to an existing repository.
 
@@ -40,7 +62,14 @@ x "Create a basic HTML web page or use the index.html file provided (we recommen
 
 OOO "Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
 
-OOO "Make sure you have a column for date/time, city, state, country, shape, and comment at the very least.
+OOO "Make sure you have a column for
+date/time,
+city,
+state,
+country,
+shape, and
+comment
+at the very least.
 
 OOO "Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input."
 
