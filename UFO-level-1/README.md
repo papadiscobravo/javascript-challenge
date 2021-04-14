@@ -1,8 +1,8 @@
 # javascript-challenge
-Click on index.html.
+
+Visit index.html
 A page will load that asks you to enter a date.
 When you click the filter button, only results matching that date will be returned.
-
 
 This is homework 14 based on material covered March 31, April 3, and April 5, 2021 in Data Analytics and Visualization Boot Camp at the University of Minnesota.
 
