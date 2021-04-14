@@ -1,6 +1,6 @@
 # javascript-challenge
 
-Visit index.html
+Serve index.html via LiveServer in Visual Studio Code.
 A page will load that asks you to enter a date.
 When you click the filter button, only results matching that date will be returned.
 
@@ -41,5 +41,5 @@ The HTML contains a table with the following header
 These instructions are found at
 https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/uofm-stp-data-pt-12-2020-u-c/tree/master/02-Homework/14-Intro-To-JavaScript/Instructions
 
-This project is published at
+This repo is published at
 https://github.com/papadiscobravo/javascript-challenge
