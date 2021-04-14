@@ -1,10 +1,15 @@
 # javascript-challenge
+This is level one of homework 14 based on material covered March 31, April 3, and April 5, 2021 in Data Analytics and Visualization Boot Camp at the University of Minnesota.
 
-Serve index.html via LiveServer in Visual Studio Code.
-A page will load that asks you to enter a date.
-When you click the filter button, only results matching that date will be returned.
 
-This is homework 14 based on material covered March 31, April 3, and April 5, 2021 in Data Analytics and Visualization Boot Camp at the University of Minnesota.
+1. Visit https://papadiscobravo.github.io/javascript-challenge/ or
+
+Clone the repo at https://github.com/papadiscobravo/javascript-challenge and serve index.html via LiveServer in Visual Studio Code.
+
+2. A page will load that asks you to enter a date.
+
+3. When you click the filter button, only results matching that date will be returned.
+
 
 This creates a table dynamically based on the JSON file provided, called data.js.
 
@@ -41,5 +46,3 @@ The HTML contains a table with the following header
 These instructions are found at
 https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/uofm-stp-data-pt-12-2020-u-c/tree/master/02-Homework/14-Intro-To-JavaScript/Instructions
 
-This repo is published at
-https://github.com/papadiscobravo/javascript-challenge
