@@ -1,6 +1,10 @@
 # javascript-challenge
 
-Serve index.html via LiveServer in Visual Studio Code.
+Visit
+
+https://papadiscobravo.github.io/javascript-challenge/
+
+or clone the repo and serve index.html via LiveServer in Visual Studio Code.
 A page will load that asks you to enter a date.
 When you click the filter button, only results matching that date will be returned.
 
